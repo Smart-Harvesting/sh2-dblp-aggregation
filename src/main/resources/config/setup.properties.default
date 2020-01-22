@@ -1,0 +1,10 @@
+xml.bht=path/to/bht.xml
+xml.dblp=path/to/dblp.xml
+xml.hdblp=path/to/hdblp.xml
+xml.streams=path/to/streams.xml
+
+dtd.dblp=path/to/dblp.dtd
+
+path.oaga=path/to/oag-mag-aux-root-dir
+
+csv.msa=path/to/msa.csv
